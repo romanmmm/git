@@ -1,2 +1,3 @@
 file created
 entered line 2
+entered line 3
