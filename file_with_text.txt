@@ -2,4 +2,4 @@ file created
 entered line 2
 entered line 3
 entered line 4 hello github
-master
+master & branch2
